@@ -10,7 +10,6 @@
         "laravel/framework": "5.6.*",
         "laravel/tinker": "^1.0",
         "ebanx/ebanx": "dev-master",
-        "guzzlehttp/guzzle": "~6.0"
     },
     "require-dev": {
         "filp/whoops": "^2.0",
