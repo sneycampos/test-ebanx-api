@@ -5,7 +5,6 @@ namespace App\Http\Controllers;
 use Ebanx\Ebanx;
 use App\Models\Plan;
 use Illuminate\Http\Request;
-use GuzzleHttp\Exception\GuzzleException;
 
 class PaymentsController extends Controller
 {
