@@ -9,15 +9,6 @@
     {{--<link rel="stylesheet" href="{{asset('css/style.css?v=1')}}">--}}
 </head>
 <body>
-{{--<header class="container-fluid mb-4 p-2">
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                @include('menu')
-            </div>
-        </div>
-    </div>
-</header>--}}
 <div class="container">
     @yield('content')
 </div>
